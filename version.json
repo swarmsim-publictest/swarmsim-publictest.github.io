@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0-beta01",
-  "updated": "2017-02-02T21:05:52.411Z",
+  "version": "1.1.0-beta02",
+  "updated": "2017-02-02T21:48:08.492Z",
   "githash": {
-    "hash": "97de79304df6c93828184ec6fcdd9c5bf020c494",
-    "short": "97de793",
-    "tag": "v1.1.0-beta01",
+    "hash": "d4de4857342643141e6e8a26d4dc2806b3104646",
+    "short": "d4de485",
+    "tag": "v1.1.0-beta02",
     "branch": "2017-1.1"
   }
 }
